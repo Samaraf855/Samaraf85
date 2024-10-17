@@ -1,4 +1,4 @@
-:root{
+@import url("style/header.css");
     --cor-de-fundo:pink;
 }
 body{
