@@ -4,3 +4,8 @@
     background-image: url("../img/menu.svg");
     display: inline-block;
 }
+.cabeçalho{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
